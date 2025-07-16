@@ -67,7 +67,7 @@ This Power BI dashboard presents an in-depth analytical study of hard substance 
 🤝 Acknowledgments
 This project was created for data storytelling and analytical exploration. 
 Special thanks to community health professionals and analysts driving substance use awareness in Nigeria.
-and my very special Coach Bajismalytic you are the best.
+and my very special Coach Bajismalytics you are the best.
 
 📬 Contact
 Coleman Nwachukwu
