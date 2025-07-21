@@ -20,20 +20,20 @@ This Power BI dashboard presents an in-depth analytical study of hard substance 
 
 📊 Visualizations
 
-1.	Usage Frequency by Age Group
+1.	Hard drug usage by Age Group
 → Highlights consumption patterns across the 18–45 age range.
-2.	Usage Frequency by Gender
+2.	Hard drug usage by Gender
 → Shows male dominance in substance usage (~55%).
 3.	First-Time Substance Use by Type
 → Visualizes which substances are typically introduced first.
 4.	Substance Type by ID (Pie Chart)
 → Displays proportion of users for each substance.
-5.	Financial Status by Usage Frequency
+5.	Financial Status by Hard drug uasage
 → Explores correlation between income level and consumption.
 6.	Age Group by Monthly Income (Combo Chart)
 → Combines usage count with income levels across locations.
 7.	Interactive Slicers
-→ Filter dashboard by Location, Gender, and Age Group.
+→ Filter dashboard by monthly income, and Age Group.
 
 🛠️ Tools Used
 
